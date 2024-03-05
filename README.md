@@ -21,7 +21,7 @@ Description of each column in the dataset [Corona Virus Dataset](https://github.
 
 ----
 
-● Database Management System used: PostgreSQL
+● Database Management System used: PostgreSQL <br>
 ● Management Tool: pgAdmin4
 
 ----
@@ -36,6 +36,6 @@ Description of each column in the dataset [Corona Virus Dataset](https://github.
 6. Peak death rate in January 2021.
 
 ----
-For more information, you can refer the presentation: [COVID-19 Analysis Presentation]()
+For more information, you can refer to the presentation: [COVID-19 Analysis Presentation](https://github.com/meetvaghasiya23/SQL_Corona-Virus-Analysis/blob/595ea05f2b5f1cabe99236e1682e399d255ea776/SQL_COVID_Analysis_Presentation.pdf)
 
 
